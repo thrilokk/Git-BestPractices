@@ -45,6 +45,7 @@ Tagging: Create and manage tags.
 Explore git tag, git show, git checkout tags.
 
 **Week 3: Advanced Topics and Practice**
+
 Day 11-14:
 Practice complex scenarios: merging conflicts, rebasing, cherry-picking.
 Experiment with different workflows (Gitflow, GitHub Flow, etc.).
